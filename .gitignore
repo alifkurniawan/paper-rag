@@ -1,0 +1,4 @@
+core/bin/api
+core/tmp
+core/.air.toml
+core/.env
